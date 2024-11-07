@@ -8,15 +8,17 @@
 # Kelas : TI.22.A5
 
 # 1. Cek Koneksi
-![Screenshot (109)](https://github.com/user-attachments/assets/29d5a9eb-2869-42e4-8b6c-e449b4be236a)
+![Screenshot (125)](https://github.com/user-attachments/assets/5e28d20f-3b3c-4dcc-976a-c91aef147089)
+
 
 # 2. Form Biodata
-![Screenshot (119)](https://github.com/user-attachments/assets/f43a33cc-9026-43c0-91ec-d5a053890be7)
+![Screenshot (126)](https://github.com/user-attachments/assets/fa207585-c363-4566-a0ae-582d5fd9c0bd)
 
-![Screenshot (121)](https://github.com/user-attachments/assets/0fcb1970-83d0-4146-b008-19e6bead7113)
+![Screenshot (127)](https://github.com/user-attachments/assets/563595ca-aa5b-4960-a992-93a4a0dc3fdc)
+
+![Screenshot (128)](https://github.com/user-attachments/assets/26e22d00-a134-4185-9e95-f6428a658047)
 
 # Menambahkan Data Mahasiswa
+![Screenshot (129)](https://github.com/user-attachments/assets/5bb3a127-d4ac-4bd6-b469-d3e18c7e6ac3)
 
-![Screenshot (124)](https://github.com/user-attachments/assets/877a6b49-af1f-475f-94cd-d91dc7f2153d)
-![Screenshot (123)](https://github.com/user-attachments/assets/8517153e-7b81-4fa1-b5b2-fd42d8c22f65)
-![Screenshot (122)](https://github.com/user-attachments/assets/76b0f920-eb9a-4b63-a568-00b2f66af8fe)
+![Screenshot (130)](https://github.com/user-attachments/assets/b921c7a8-0fac-4298-bf7b-915c1da6c160)
